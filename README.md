@@ -1,6 +1,7 @@
 # budget-tracker
 
 Budget Tracker application adds functionality to the existing Budget Tracker application to allow for offline access and functionality. With the help of Budget Tracker application the user will be able to add expenses and deposits to their budget with or without a connection. When entering transactions offline, they should populate the total when brought back online.
+
 Offline Functionality:
 - Enter deposits offline
 - Enter expenses offline
@@ -26,3 +27,9 @@ Giving users a fast and easy way to track their money is important, but allowing
 GIVEN a user is on Budget App without an internet connection
 WHEN the user inputs a withdrawal or deposit
 THEN that will be shown on the page, and added to their transaction history when their connection is back online.
+
+
+# Demo Images
+
+![deposits](https://user-images.githubusercontent.com/51222558/87516563-77469400-c632-11ea-9d03-fb2fb8bce192.jpg)
+![expenses](https://user-images.githubusercontent.com/51222558/87516564-77df2a80-c632-11ea-8600-ed12fe035d09.jpg)
